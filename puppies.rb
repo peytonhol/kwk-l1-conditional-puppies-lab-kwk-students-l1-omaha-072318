@@ -21,3 +21,7 @@ end
 end
 
 less_puppies(4)
+
+
+
+def some_puppies(puppies)
