@@ -12,9 +12,9 @@ no_puppies(0)
 
 def less_puppies(puppies)
   if puppies < 3
-    print "Good job"
-  elsif puppies
-    print
+    print "Good job, Rachel!"
+  elsif puppies > 3
+    print ""
 end
 end
 
