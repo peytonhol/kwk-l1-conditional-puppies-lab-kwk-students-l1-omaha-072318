@@ -8,4 +8,14 @@ end
 
 no_puppies(0)
 
-def less_puppies
+
+
+def less_puppies(puppies)
+  if puppies ==
+    print
+  elsif puppies
+    print
+end
+end
+
+less_puppies
