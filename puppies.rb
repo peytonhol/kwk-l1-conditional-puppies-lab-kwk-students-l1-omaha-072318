@@ -1,8 +1,8 @@
 def no_puppies(puppies)
   if puppies == 0
-    print "Good job Rachel!"
+    print "Well done, Rachel!"
   elsif puppies > 0
-    print
+    print "No more puppies!"
 end
 end
 
