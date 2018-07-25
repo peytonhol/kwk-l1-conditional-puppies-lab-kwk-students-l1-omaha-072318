@@ -8,4 +8,4 @@ end
 
 no_puppies(0)
 
-def 
+def less_puppies
