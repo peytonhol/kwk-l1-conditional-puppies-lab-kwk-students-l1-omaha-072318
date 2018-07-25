@@ -11,8 +11,8 @@ no_puppies(0)
 
 
 def less_puppies(puppies)
-  if puppies ==
-    print
+  if puppies < 3
+    print "Good job"
   elsif puppies
     print
 end
