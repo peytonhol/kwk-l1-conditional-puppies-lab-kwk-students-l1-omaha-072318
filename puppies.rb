@@ -16,8 +16,8 @@ def less_puppies(puppies)
   elsif puppies == 3
     print "Slow down, Rachel!"
   else  puppies > 3
-    print ""
+    print "Get back to your animal restriction!"
 end
 end
 
-less_puppies
+less_puppies(4)
